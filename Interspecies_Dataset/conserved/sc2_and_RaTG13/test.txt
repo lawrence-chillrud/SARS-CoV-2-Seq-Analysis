@@ -1,0 +1,4 @@
+> 2805-3019 log likelihood: -44.147656945127004 random seq of same size log likelihood: -59.62788118593763
+GACUCACUUUCUUCCACAGCAAGUGCACUUGGAAAACUUCAAGAUGUGGUCAACCAAAAUGCACAAGCUUUAAACACGCUUGUUAAACAACUUAGCUCCAAUUUUGGUGCAAUUUCAAGUGUUUUAAAUGAUAUCCUUUCACGUCUUGACAAAGUUGAGGCUGAAGUGCAAAUUGAUAGGUUGAUCACAGGCAGACUUCAAAGUUUGCAGACAUA
+....(((((.((.....)).)))))..((((((....)))))).(((((((((((..(((((((....((((((.(((((((............((.(((....))).)).....))))))))))))).........((((.((((((((...)))))))))))))))))..))....))))))))))).(((((((....))))))).......
+

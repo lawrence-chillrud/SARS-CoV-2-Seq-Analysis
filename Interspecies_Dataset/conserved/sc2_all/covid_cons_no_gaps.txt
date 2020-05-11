@@ -1,0 +1,60 @@
+> 274-292 log likelihood: -37.62211326680391random seq of same size log likelihood: -52.7956961917466
+UUGCUUCCACUGAGAAGUC
+..(((((......))))).
+
+> 471-516 log likelihood: -119.79646528234582random seq of same size log likelihood: -112.13864671127861
+AGAGUUUAUUCUAGUGCGAAUAAUUGCACUUUUGAAUAUGUCUCUC
+((((..(((((.(((((((....)))))))...)))))...)))).
+
+> 1267-1286 log likelihood: -36.05579777198838random seq of same size log likelihood: -45.16881916213479
+AUAAAUUACCAGAUGAUUUU
+..((((((.....)))))).
+
+> 1294-1304 log likelihood: -26.6124989581944random seq of same size log likelihood: -28.890622866778113
+GCGUUAUAGCU
+((......)).
+
+> 1571-1592 log likelihood: -45.9933061656108random seq of same size log likelihood: -57.10043842636637
+UUGUGGACCUAAAAAGUCUACU
+..((((((.......)))))).
+
+> 2182-2203 log likelihood: -49.70515948468804random seq of same size log likelihood: -44.66402909690834
+CAGUGUCUAUGACCAAGACAUC
+..((((((.......)))))).
+
+> 2244-2264 log likelihood: -55.533570155296665random seq of same size log likelihood: -33.862962813153295
+UGCAGCAAUCUUUUGUUGCAA
+((((((((....)))))))).
+
+> 2276-2297 log likelihood: -49.93569809155589random seq of same size log likelihood: -48.72767996143369
+UUGUACACAAUUAAACCGUGCU
+..((((...........)))).
+
+> 2452-2471 log likelihood: -47.222710506602894random seq of same size log likelihood: -56.07092404684964
+UUGAAGAUCUACUUUUCAAC
+(((((((.....))))))).
+
+> 2740-2758 log likelihood: -25.877639661851013random seq of same size log likelihood: -43.556302151640764
+AUGUUCUCUAUGAGAACCA
+..((((((...))))))..
+
+> 3045-3065 log likelihood: -39.01146005367711random seq of same size log likelihood: -52.74933696093571
+GCAGAAAUCAGAGCUUCUGCU
+((((((........)))))).
+
+> 3165-3179 log likelihood: -25.621606268582298random seq of same size log likelihood: -41.41538476623717
+GCACCUCAUGGUGUA
+(((((....))))).
+
+> 3435-3455 log likelihood: -44.41372625555621random seq of same size log likelihood: -39.82257756574254
+GACUCAUUCAAGGAGGAGUUA
+(((((.(((...)))))))).
+
+> 3578-3593 log likelihood: -23.686253578019425random seq of same size log likelihood: -45.7479335967179
+AAAUGAAUCUCUCAUC
+..((((.....)))).
+
+> 3676-3688 log likelihood: -25.95255005869852random seq of same size log likelihood: -31.210463338852193
+CCAUAGUAAUGGU
+((((....)))).
+
